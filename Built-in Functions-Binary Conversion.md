@@ -23,6 +23,11 @@ print("Binary representation of", num, "is", binary_value)
 
 
 ## Output
+
 <img width="1596" height="497" alt="image" src="https://github.com/user-attachments/assets/97f5aeac-6e5a-4a50-b1af-1dcc3e383c83" />
-## Result
+
+
+ Result
+
+ 
 The program successfully converts the number 16 into its binary representation using the built-in bin() function and displays the output.
